@@ -1,0 +1,267 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    padding: 50px 0;
+
+}
+.logo{
+    width: 20%;
+    float: left;
+
+}
+nav{
+    width: 56%;
+    float: right;
+    overflow: hidden;
+
+
+}
+nav ul{
+    float: right;
+    list-style: none;
+    overflow: hidden;
+
+}
+nav ul li{
+    margin-left: 90px;
+    float: left;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #626262;
+
+}
+.banner{
+    width: 90%;
+    margin: auto;
+
+}
+.banner img{
+    width: 100%;
+
+}
+.photodairy{
+    width: 80%;
+    margin: auto;
+
+}
+.photodairy h5, .item-one h5, .item-two h5, .item-three h5, .item-four h5{
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 40px 0;
+
+}
+.photodairy h1, .item-one h1, .item-two h1, .item-three h1, .item-four h1, .news h1{
+    text-transform: capitalize;
+    font-size: 35px;
+    color: #626262;
+    margin: 30px 0;
+
+}
+.photodairy p, .item-one p, .item-two p, .item-three p, .item-four p{
+    color: #626262;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: left;
+
+}
+.lifestyle{
+    overflow: hidden;
+
+}
+.content{
+    width: 80%;
+    overflow: hidden;
+    margin: auto;
+    padding: 40px 0;
+
+}
+.item-one{
+    width: 45%;
+    float: left;
+
+}
+.item-one img{
+    width: 100%;
+    margin-top: 50px;
+
+}
+.item-one h5{
+
+}
+.item-one h1{
+    font-size: 34px;
+
+}
+.item-one p{
+
+}
+.item-two{
+    width: 45%;
+    float: right;
+
+}
+.item-two img{
+    width: 100%;
+    margin-top: 50px;
+
+}
+.item-two h5{
+
+}
+.item-two h1{
+    font-size: 34px;
+
+}
+.item-two p{
+
+}
+.item-three{
+    width: 45%;
+    float: left;
+
+}
+.item-three img{
+    width: 100%;
+    margin-top: 80px;
+
+}
+.item-three h5{
+
+}
+.item-three h1{
+    font-size: 34px;
+
+}
+.item-three p{
+
+}
+.item-four{
+    width: 45%;
+    float: right;
+
+}
+.item-four img{
+    width: 100%;
+    margin-top: 80px;
+
+}
+.item-four h5{
+
+}
+.item-four h1{
+    font-size: 34px;
+
+}
+.item-four p{
+
+}
+.newsletter{
+    background-color: #f0f0f0;
+    padding: 50px 0;
+
+}
+.news{
+    margin: auto;
+    width: 33%;
+    position: relative;
+
+}
+.news h1{
+
+}
+.news input{
+    border: none;
+    border-bottom: 1px solid black;
+    background: transparent;
+    width: 100%;
+    margin-top: 50px;
+
+
+}
+.news img{
+
+}
+.news input:focus{
+    outline: none;
+}
+.news input::placeholder{
+   text-transform: capitalize;
+}
+.icon{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+
+}
+.btn{
+    padding: 100px 0;
+    text-align: center;
+
+
+}
+button{
+    border: none;
+    background: transparent;
+    border: 1px solid black;
+    font-size: 20px;
+    padding: 15px 20px;
+    cursor: pointer;
+}
+footer{
+    background-color: #f0f0f0;
+    padding: 50px 0;
+
+}
+.footer-content{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+
+}
+.privacy{
+    float: left;
+    width: 30%;
+    overflow: hidden;
+
+}
+.privacy ul{
+
+}
+.privacy ul li{
+    float: left;
+    list-style: none;
+    margin-right: 20px;
+    font-size: 16px;
+    text-transform: capitalize;
+
+}
+.social-icon{
+    float: right;
+    width: 30%;
+    overflow: hidden;
+
+}
+.social-icon ul{
+    margin: 0;
+    float: right;
+    overflow: hidden;
+
+}
+.social-icon ul li{
+    list-style: none;
+    float: left;
+    margin-left: 20px;
+    text-transform: capitalize;
+    font-size: 16px;
+
+}
+.social-icon ul li a{
+    color: #626262;
+
+}
